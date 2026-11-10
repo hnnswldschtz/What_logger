@@ -26,4 +26,9 @@ BH1750 - by Christopher Laws
 
 Install the Libraries through the library manager of Arudino IDE
 
-
+Connection:
+Sensor | Arduino  
+- GND -> GND
+- SDA -> SDA
+- SCL -> SCL
+- VCC -> 5V
