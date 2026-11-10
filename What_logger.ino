@@ -4,7 +4,7 @@ A Data logger for environmental brightness - What could possibly go wrong?
 hnns 26
 
 */
-
+#include <Wire.h>
 #include <SPI.h>
 #include <SD.h>
 #include "RTClib.h"
