@@ -12,16 +12,18 @@
    \ V  V / |  _ <| |_| | |\  | |_| ||_|
     \_/\_/  |_| \_\\___/|_| \_|\____|(_)
 
-Readme
+
 
 A Data logger for environmental brightness - What could possibly go wrong?
-hnns26
 
+Readme
 
 dependencies:
 
 SD - by Arduino, Sparkfun
 RTClib - by Adafruit
 BH1750 - by Christopher Laws
+
+Install the Libraries through the library manager of Arudino IDE
 
 
