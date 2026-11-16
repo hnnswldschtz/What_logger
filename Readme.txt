@@ -41,7 +41,7 @@ Sensor | Arduino
 
 ################################
 
-Plotting logged data:
+Plotting logged data with plot_logger.py from this repo
 
 
 Python dependencies:
