@@ -29,6 +29,7 @@ uint32_t syncTime = 0; // time of last sync()
 #define redLEDpin 2
 #define greenLEDpin 3
 
+
 BH1750 lightMeter(0x23);
 RTC_DS1307 RTC; // define the Real Time Clock object
 
