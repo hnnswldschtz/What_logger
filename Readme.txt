@@ -44,9 +44,8 @@ Sensor | Arduino
 Plotting logged data with plot_logger.py from this repo
 
 
-Python dependencies:
+Python dependencies (needs python 3):
 
-   - Python 3: download from https://www.python.org/downloads/
    - Matplotlib: install with pip as shown below
 
 From the project directory, create and activate a virtual environment:
